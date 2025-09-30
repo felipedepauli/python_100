@@ -1,0 +1,10 @@
+{
+    "code-runner.executorMap": {
+        "python": "/home/fpauli/aif/git/courses/python_100/.venv/bin/python -u"
+    },
+    "code-runner.cwd": "${workspaceFolder}",
+    "code-runner.runInTerminal": true,
+    "code-runner.saveFileBeforeRun": true,
+    "code-runner.showExecutionMessage": false,
+    "code-runner.clearPreviousOutput": true
+}
